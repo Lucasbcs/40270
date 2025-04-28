@@ -1,0 +1,6 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<!DOCTYPE alumnos [
+    <!ELEMENT alumnos (alumnos)>
+    <!ELEMENT alumno (nombre)>
+    <!ELEMENT nombre (#PCDATA)>
+]>
